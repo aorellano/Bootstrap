@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"disabled":false,"guestpath":"/vagrant","hostpath":"/Users/alexisorellano/Documents/HOB","fsnotify":true,"exclude":[".git","node_modules","tmp/cache"],"__vagrantfile":true}}}
